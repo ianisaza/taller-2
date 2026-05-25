@@ -46,7 +46,7 @@ Para correr el código de ecuaciones localmente, asegúrate de tener instalado e
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/ianisaza/tu-repositorio.git
+git clone https://github.com/ianisaza/tu-repositorio.git.
 Navegar al directorio del proyecto:
 
 Bash
