@@ -24,10 +24,10 @@ Plaintext
 │   └── Presentacion_Java.pdf  # Presentación sobre variables y condicionales
 └── README.md                  # Descripción general del proyecto
 📖 Conceptos Cubiertos en la Presentación
-La presentación incluida en este repositorio aborda los pilares esenciales para comenzar a programar en Java:
+La presentación incluida en este repositorio aborda los pilares esenciales para comenzar a programar en Java:.
 
 1. Variables en Java
-Explicación de cómo almacenar datos en memoria utilizando los tipos de datos adecuados:
+Explicación de cómo almacenar datos en memoria utilizando los tipos de datos adecuados:.
 
 Primitivos: int, double, boolean, char.
 
