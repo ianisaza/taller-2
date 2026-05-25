@@ -10,12 +10,12 @@ Presentación de Fundamentos: Material educativo y explicativo sobre el manejo d
 🛠️ Tecnologías Utilizadas
 Lenguaje principal: Java (JDK 17 o superior recomendado)
 
-Entorno de Desarrollo (IDE): Visual Studio Code / Eclipse / IntelliJ IDE
+Entorno de Desarrollo (IDE): Visual Studio Code / Eclipse / IntelliJ IDEA
 
 Control de Versiones: Git y GitHub
 
 🚀 Estructura del Proyecto
-A continuación se detalla la organización de los archivos dentro del repositorio:
+A continuación se detalla la organización de los archivos dentro del repositorio::
 
 Plaintext
 ├── src/
