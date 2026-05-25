@@ -15,7 +15,7 @@ Entorno de Desarrollo (IDE): Visual Studio Code / Eclipse / IntelliJ IDEA
 Control de Versiones: Git y GitHub
 
 🚀 Estructura del Proyecto
-A continuación se detalla la organización de los archivos dentro del repositorio::
+A continuación se detalla la organización de los archivos dentro del repositorio:
 
 Plaintext
 ├── src/
